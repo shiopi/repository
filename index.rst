@@ -17,6 +17,7 @@ yumrepo
 
 + repository
         + test 0.8.x release is `0.8.1 <https://shiopi.github.com/repository/yum/rhel/6/stable-v0.8/x86_64/zookeeper-lib-3.4.5-1.x86_64.rpm>`__
+        + test 0.8.x release is `0.8.1 <https://shiopi.github.com/repository/index.html>`__
 
 
 
